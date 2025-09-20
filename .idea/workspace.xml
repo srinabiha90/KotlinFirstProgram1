@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1fec2b7-c152-413a-b429-c21c22db5fb3" name="Changes" comment="Innitial Commit" />
+    <list default="true" id="f1fec2b7-c152-413a-b429-c21c22db5fb3" name="Changes" comment="Percobaan Literal">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnggotaString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Blok_Komentar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CaesarChiper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Char.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEkspilisit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisitChar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LiteralKonstan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MasukanKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PerubahanKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RawString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SandiMorse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTempkates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeDataDesimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnderscoreLiteral.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarVal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +70,39 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.ALiteralKt.executor": "Run",
+    "Kotlin.AnggotaStringKt.executor": "Run",
+    "Kotlin.BilanganBulatKt.executor": "Run",
+    "Kotlin.Blok_KomentarKt.executor": "Run",
+    "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.CaesarChiperKt.executor": "Run",
+    "Kotlin.CharKt.executor": "Run",
+    "Kotlin.DecimalKt.executor": "Run",
+    "Kotlin.KalkulatorSederhanaKt.executor": "Run",
+    "Kotlin.KonversiEkspilisitKt.executor": "Run",
+    "Kotlin.KonversiEksplisitCharKt.executor": "Run",
+    "Kotlin.KonversiEksplisitKt.executor": "Run",
+    "Kotlin.LiteralKKt.executor": "Run",
+    "Kotlin.LiteralKonstanKt.executor": "Run",
+    "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.MainAppKt.executor": "Run",
+    "Kotlin.MasukanKotlinKt.executor": "Run",
+    "Kotlin.PenerapanStringKt.executor": "Run",
+    "Kotlin.PerubahanKotlinKt.executor": "Run",
+    "Kotlin.RawStringKt.executor": "Run",
+    "Kotlin.RepresentasiKt.executor": "Run",
+    "Kotlin.SandiMorseKt.executor": "Run",
+    "Kotlin.StringKt.executor": "Run",
+    "Kotlin.StringTempkatesKt.executor": "Run",
+    "Kotlin.TipeDataDesimalKt.executor": "Run",
+    "Kotlin.TipeDataKt.executor": "Run",
+    "Kotlin.UderscoreKt.executor": "Run",
+    "Kotlin.UnderscoreLiteralKt.executor": "Run",
+    "Kotlin.VarValKt.executor": "Run",
+    "Kotlin.VariabelKt.executor": "Run",
+    "Kotlin.WhitespacesKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/SriNa/KotlinFirstProgram1/src/main/kotlin/Main.kt",
@@ -78,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757131712569</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Percobaan Literal">
+      <option name="closed" value="true" />
+      <created>1757132162179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757132162179</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +158,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Innitial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Innitial Commit" />
+    <MESSAGE value="Percobaan Literal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percobaan Literal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -103,6 +168,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/LiteralKonstan.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
